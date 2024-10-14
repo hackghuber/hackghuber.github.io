@@ -1,15 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my first personal blog,I will share my learning experience ,some of my work and feelings on my blog."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a third year undergraduate student from Wuhan University in China. My personal interest includes physics, mathematics, eda.
+I'm a third year undergraduate student from Wuhan University in China. My personal interest includes physics, mathematics, ic technology.Also,I am currently learning about machine learning and deep learning. I am interested in the application of machine learning in ic technology like ai4eda.
+ 
+Not long ago, I just enter the phd program of SJTU and eitech Ningbo.If you also enter the program, please contact me, we can discuss together and may become friends.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+If you want to know more about me, please contact me through the following ways:
 
 [Email](zy202130219@outlook.com) / [Github](https://github.com/hackghuber) / [Wechat](../images/wechat.jpg) 
                         
@@ -19,14 +23,15 @@ Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you se
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+Blog guide
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. main page is the blog page entry, you can see seven titles on the top of the page, and you can click the title to see the full content.
+1. Publications page is the page that shows the papers I have published.
+1. About talks page, I maybe post everyday harvest and work.
+1. About teaching and portfolio page, I'm not sure what to post yet, but I will update it in the future.
+1. Blog Posts page is the page that shows my blog posts. I may update it often.
+1. CV page is the page that shows my resume.
+1. guide page is about how to use this blog template,namely academicpage and guide about markdown.
 
 Site-wide configuration
 ------
@@ -48,6 +53,6 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
+Tips for editing markdown files
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
