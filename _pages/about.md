@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to my first personal blog,I will share my learning experience ,some of my work and feelings on my blog."
+title: "Welcome to my first personal blog!I will share my learning experience ,some of my work and feelings on my blog."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a third year undergraduate student from Wuhan University in China. My personal interest includes physics, mathematics, ic technology.Also,I am currently learning about machine learning and deep learning. I am interested in the application of machine learning in ic technology like ai4eda.
+I'm a third year undergraduate student from Wuhan University in China. My personal interest includes physics, mathematics, ic technology.Also,I am currently learning about machine learning and deep learning. I am also interested in the application of machine learning in ic technology like ai4eda.
  
 Not long ago, I just enter the phd program of SJTU and eitech Ningbo.If you also enter the program, please contact me, we can discuss together and may become friends.
 
@@ -17,7 +17,7 @@ If you want to know more about me, please contact me through the following ways:
 
 [Email](zy202130219@outlook.com) / [Github](https://github.com/hackghuber) / [Wechat](../images/wechat.jpg) 
                         
-A data-driven personal website
+A data-driven personal website / 关于我的个人网站
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
