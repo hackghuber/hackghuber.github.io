@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a third year undergraduate student from Wuhan University in China. My personal interest includes physics, mathematics, ic technology.Also,I am currently learning about machine learning and deep learning. I am also interested in the application of machine learning in ic technology like ai4eda.
  
-Not long ago, I just enter the phd program of SJTU and eitech Ningbo.If you also enter the program, please contact me, we can discuss together and may become friends.
+Not long ago, I just entered the phd program of SJTU and eitech Ningbo.If you also enter the program, please contact me, we can discuss together and may become friends.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
