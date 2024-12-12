@@ -31,3 +31,11 @@ A graph is k-connected if it has more than k vertices and remains connected when
 
 A planar graph is a graph that can be drawn on a plane `without any edges crossing`. That is, the graph can be embedded in a 2D plane such that no two edges intersect except at their endpoints
 
+### face of planar graph
+
+[a explanation of face](https://proofwiki.org/wiki/Definition:Planar_Graph/Face)
+
+### bipartite graph
+
+二分图，可以分为两个点集合，两个点群内部的点不相连，两个点群之间的点相连。
+
